@@ -1,0 +1,3 @@
+date_app_homepage:
+    path:     /
+    defaults: { _controller: DateAppBundle:Default:index }

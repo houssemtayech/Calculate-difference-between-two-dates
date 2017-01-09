@@ -1,0 +1,4 @@
+services:
+#    date_app.example:
+#        class: Date\AppBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
